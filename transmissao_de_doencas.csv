@@ -1,0 +1,52 @@
+﻿"Tabela 898 - Internações hospitalares por doenças relacionadas ao saneamento ambiental inadequado, total e segundo as categorias de doenças"
+"Variável - Internações hospitalares por doenças relacionadas ao saneamento ambiental inadequado, por 100.000 habitantes (Unidades por 100 mil habitantes)"
+"Brasil e Unidade da Federação";"Ano x Categorias de doenças"
+"Brasil e Unidade da Federação";"2016"
+"Brasil e Unidade da Federação";"Total";"De transmissão feco-oral";"Tansmitidas por inseto vetor";"Transmitidas através do contato com a água";"Relacionadas com a higiene";"Geo-helmintos e teníases"
+"Brasil";"166,8";"131,2";"33,9";"1,1";"0,2";"0,5"
+"Rondônia";"295,3";"190,8";"100,6";"2,1";"0,4";"1,5"
+"Acre";"247,6";"187,1";"55,6";"3,6";"0,6";"0,7"
+"Amazonas";"136,2";"120,3";"14,1";"0,9";"0,1";"0,8"
+"Roraima";"222,9";"149,0";"70,0";"0,0";"0,2";"3,7"
+"Pará";"484,6";"437,9";"44,7";"1,2";"0,2";"0,6"
+"Amapá";"79,1";"53,7";"19,9";"3,7";"0,0";"1,8"
+"Tocantins";"189,8";"144,4";"45,1";"0,0";"0,0";"0,3"
+"Maranhão";"753,7";"670,8";"81,7";"0,2";"0,2";"0,7"
+"Piauí";"495,3";"462,2";"30,6";"0,1";"1,8";"0,6"
+"Ceará";"217,0";"174,4";"41,3";"0,4";"0,2";"0,7"
+"Rio Grande do Norte";"208,3";"140,9";"67,1";"0,1";"0,0";"0,3"
+"Paraíba";"267,6";"202,2";"64,4";"0,3";"0,1";"0,6"
+"Pernambuco";"127,2";"88,2";"36,4";"1,9";"0,3";"0,4"
+"Alagoas";"163,8";"135,1";"27,9";"0,5";"0,1";"0,2"
+"Sergipe";"62,1";"51,0";"8,9";"1,5";"0,3";"0,4"
+"Bahia";"230,4";"168,4";"60,9";"0,4";"0,3";"0,4"
+"Minas Gerais";"135,3";"80,5";"53,7";"0,6";"0,1";"0,3"
+"Espírito Santo";"165,5";"111,9";"51,8";"1,0";"0,2";"0,6"
+"Rio de Janeiro";"40,7";"24,9";"14,4";"0,8";"0,1";"0,5"
+"São Paulo";"53,0";"39,7";"11,7";"1,0";"0,2";"0,4"
+"Paraná";"145,5";"119,2";"24,1";"1,7";"0,2";"0,4"
+"Santa Catarina";"116,4";"104,7";"6,6";"4,6";"0,1";"0,3"
+"Rio Grande do Sul";"89,0";"82,3";"2,3";"3,6";"0,2";"0,6"
+"Mato Grosso do Sul";"228,4";"127,7";"99,9";"0,1";"0,3";"0,4"
+"Mato Grosso";"159,4";"134,9";"24,0";"0,1";"0,1";"0,3"
+"Goiás";"188,6";"122,2";"65,8";"0,3";"0,1";"0,2"
+"Distrito Federal";"85,5";"61,6";"22,7";"0,6";"0,1";"0,5"
+"Fonte: Ministério da Saúde, Secretaria Executiva, Departamento de Informática do SUS, DATASUS. Sistema de Informações sobre Internação Hospitalar - SIH - SUS; IBGE, Projeção da População do Brasil por Sexo e Idade para o Período 2000/2060, Revisão 2013 e Projeção da População das Unidades da Federação por Sexo e Idade para o Período 2000/2030, Revisão 2013."
+
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
